@@ -15,4 +15,4 @@
 - Memory Initialization: The Dynamic Programming version typically initializes the array based on the input size $N$ during runtime. The Lookup Table version in the provided reference uses a pre-defined global array of fixed size (e.g., 100x100).
 ```
 
-[AI](https://gemini.google.com/share/cca9909183b3)
+[AI Conversation](https://gemini.google.com/share/cca9909183b3)
