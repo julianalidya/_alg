@@ -14,3 +14,5 @@
 - Table Filling: The Dynamic Programming version pre-fills the entire relevant portion of the $N \times N$ table. The Lookup Table version only fills the specific cells needed to reach the final answer, leaving other cells empty (None).
 - Memory Initialization: The Dynamic Programming version typically initializes the array based on the input size $N$ during runtime. The Lookup Table version in the provided reference uses a pre-defined global array of fixed size (e.g., 100x100).
 ```
+
+[AI](https://gemini.google.com/share/cca9909183b3)
