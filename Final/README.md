@@ -26,25 +26,25 @@
 [AI Conversation](https://gemini.google.com/share/10277b08341d)
 
 ## 習題 8
-[習題 8](https://github.com/julianalidya/_alg/tree/main/HW%208)
+[習題 8](https://github.com/julianalidya/_alg/tree/main/HW%208) <br>
 [AI Conversation](https://gemini.google.com/share/cca9909183b3)
 
 ## 習題 9
-[習題 9](https://github.com/julianalidya/_alg/blob/main/HW%209/distance.py)
+[習題 9](https://github.com/julianalidya/_alg/blob/main/HW%209/distance.py) <br>
 [AI Conversation](https://gemini.google.com/share/c791218f5729)
 
 ## 習題 10
-[習題 10](https://github.com/julianalidya/_alg/blob/main/HW%2010/nd_integration.py)
+[習題 10](https://github.com/julianalidya/_alg/blob/main/HW%2010/nd_integration.py) <br>
 [AI Conversation](https://chatgpt.com/c/6958be1f-bf2c-8321-a187-713a4779ec23)
 
 ## 習題 11
 [習題 11](https://chatgpt.com/share/6958c9cd-950c-800d-a465-8903576c30b9)
 
 ## 習題 12
-[習題 12](https://github.com/julianalidya/_alg/blob/main/HW%2012/cross-en.py)
+[習題 12](https://github.com/julianalidya/_alg/blob/main/HW%2012/cross-en.py) <br>
 [AI Conversation](https://chatgpt.com/share/6958dcbc-0f84-800d-a040-3ac510475b3c)
 
 ## 期中作業
     I make the report myself, while getting help on some content from AI. I’ll leave the link below for references
-[期中](https://github.com/julianalidya/_alg/tree/main/Midterm)
+[期中](https://github.com/julianalidya/_alg/tree/main/Midterm) <br>
 [AI Conversation](https://chatgpt.com/share/6958f7a5-6cac-800d-8792-d7b3ca20380a)
