@@ -22,7 +22,7 @@
 [習題 6](https://github.com/julianalidya/_alg/tree/main/HW%206)
 
 ## 習題 7
-[習題 7](https://github.com/julianalidya/_alg/blob/main/HW%207/shipSearch.js)
+[習題 7](https://github.com/julianalidya/_alg/blob/main/HW%207/shipSearch.js) <br>
 [AI Conversation](https://gemini.google.com/share/10277b08341d)
 
 ## 習題 8
